@@ -1,0 +1,45 @@
+data/schemes.json
+  s_104a3e0393e75f::t_b2ef86d15b96cc 1-1308
+docs/demo-script.md
+  s_104a3e0393e75f::t_71f0d29f49db58 1-14
+package-lock.json
+  s_104a3e0393e75f::t_a7be4ef6105b75 1-357
+package.json
+  s_104a3e0393e75f::t_ef28c5cbb050f7 1-17
+public/admin.html
+  s_104a3e0393e75f::t_bd1bb2e3f2afd7 1-39
+public/checklist.html
+  s_104a3e0393e75f::t_f84bcf64e3750e 1-28
+public/compare.html
+  s_104a3e0393e75f::t_73f93cc48a704e 1-28
+public/css/components.css
+  s_104a3e0393e75f::t_e444d58d42018c 1-351
+public/domain.html
+  s_104a3e0393e75f::t_61377d69442bf5 1-110
+public/index.html
+  s_104a3e0393e75f::t_958d2e4ced23ff 1-93
+public/questionnaire.html
+  s_104a3e0393e75f::t_c31dd9521b4439 1-30
+public/results.html
+  s_104a3e0393e75f::t_40079836e398c9 1-53
+public/saved.html
+  s_104a3e0393e75f::t_92d2ed1605d58d 1-26
+public/scheme-details.html
+  s_104a3e0393e75f::t_f7f4962371da03 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d7f7eaf764f31bfce4d007c24b7b61289b200076",
+  "prompts": {},
+  "sessions": {
+    "s_104a3e0393e75f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec0f219eeffe2r0dG0cbmhrlHp",
+        "model": "unknown"
+      },
+      "human_author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
