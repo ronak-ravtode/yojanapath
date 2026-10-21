@@ -1,0 +1,14 @@
+public/results.html
+  h_c5a3d01edfee72 50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ecdf7f22b40264ed7c86db6eb35e7a3a9450aa14",
+  "prompts": {},
+  "humans": {
+    "h_c5a3d01edfee72": {
+      "author": "ronak-ravtode <ronakravtode001@gmail.com>"
+    }
+  }
+}
